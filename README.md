@@ -93,6 +93,10 @@ model.train(
 )
 ```
 
+Grafikler:
+<img width="1635" height="816" alt="image" src="https://github.com/user-attachments/assets/005ffddb-29fb-49a0-ac91-03890c2bf979" />
+
+
 🔹 Eğitim Sonuçları
 
 Eğitim süresince loss değerlerinde düzenli düşüş gözlemlenmiştir
